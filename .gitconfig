@@ -1,0 +1,10 @@
+[user]
+	username = ianvs
+	name = Ian VanSchooten
+	location = Ann Arbor, MI
+	website = http://devnull.guru
+	bio = Front-end developer and 🐔 farmer.
+[commit]
+	gpgsign = true
+[aliases]
+	github = ianvs
